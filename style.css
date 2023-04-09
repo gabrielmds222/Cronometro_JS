@@ -7,3 +7,16 @@
 body {
   background-color: #404258;
 }
+
+main {
+  padding: 0 100px;
+}
+
+.timer {
+  color: aliceblue;
+}
+
+.timer div {
+  background-color: aqua;
+  margin: 10px;
+}
