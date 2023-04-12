@@ -19,17 +19,22 @@ main {
 
 .timer {
   display: flex;
+  margin-bottom: 30px;
   color: #fff;
 }
 
 .timer-container {
   height: 200px;
   width: 200px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
   margin: 0 20px;
 
   font-size: 60px;
   font-weight: bolder;
   letter-spacing: 3px;
 
-  background-color: red;
+  border: 2px solid red;
 }
