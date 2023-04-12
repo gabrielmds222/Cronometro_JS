@@ -36,5 +36,8 @@ main {
   font-weight: bolder;
   letter-spacing: 3px;
 
-  border: 2px solid red;
+  background-color: #404258;
+  border-radius: 7px;
+  box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.05),
+    5px 5px 15px rgba(0, 0, 0, 0.5);
 }
